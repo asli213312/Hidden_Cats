@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 05c806f9d1923f54f9efb361283772b2
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -746,7 +746,7 @@ PlayerSettings:
   cloudProjectId: 5b45cbd9-2ca8-4d47-8240-b1e87f291dc7
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Hidden-Cats
+  projectName: 
   organizationId: asli213312
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
